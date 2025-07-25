@@ -1,2 +1,2 @@
 #MULTILINGUAL
-import requirments
+import requirements as requirements

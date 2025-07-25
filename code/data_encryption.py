@@ -1,2 +1,2 @@
 #MONGO DB CONNECTION AND ALL RELATED FUNCTIONS
-import requirments
+import requirements as requirements
