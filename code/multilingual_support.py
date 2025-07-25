@@ -1,0 +1,2 @@
+#MULTILINGUAL
+import requirments

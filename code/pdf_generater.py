@@ -1,0 +1,2 @@
+#PDF GENERATION AND RELATED FUNCTIONS
+import requirments

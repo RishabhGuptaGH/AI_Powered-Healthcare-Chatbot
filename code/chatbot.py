@@ -1,0 +1,2 @@
+#OLLAMA CONNECTION
+import requirments
