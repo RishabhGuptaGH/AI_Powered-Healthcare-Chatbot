@@ -1,2 +1,2 @@
 #TEXT TO SPEECH AND SPEECH TO TEXT
-import requirments
+import requirements as requirements

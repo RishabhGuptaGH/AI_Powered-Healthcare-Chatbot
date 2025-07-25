@@ -1,2 +1,2 @@
 #PDF GENERATION AND RELATED FUNCTIONS
-import requirments
+import requirements as requirements
